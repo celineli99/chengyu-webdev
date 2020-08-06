@@ -1,10 +1,27 @@
-### 士别三日， 刮目相看 ###
+# 士别三日， 刮目相看
 
-<div class=pinyin> shi bié san rì, gua mù xiang kàn </div>
+## pinyin
 
-<div class=translation_en> literally: A scholar who has been away for three days must be looked at with new eyes. Alternatively: After even a short absence, people change and should be judged anew.
+shì bié sān rì, guā mù xiāng kàn
 
-<div class=story_cn> STORY in Chinese
+## English translation
 
-<div class=story_en> STORY in English
+literally: A scholar who has been away for three days must be looked at with new eyes. Alternatively: After even a short absence, people change and should be judged anew.
+
+## Breaking it down
+
+1. What the first character means
+2. The Second
+3. The Third
+4. The fourth
+
+[link to image]
+
+## Story in Chinese
+
+三国时代的故事...
+
+## Story in English
+
+Here comes the story from the times of the three kingdoms...
 
