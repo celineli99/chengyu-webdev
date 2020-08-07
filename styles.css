@@ -1,13 +1,29 @@
 .box {
     border: 5px solid black;
     margin: auto;
+    margin-bottom: 20px;
     width: 100%;
     background-color: beige;
 }
 
+
 h1 {
     text-align: center;
     font-size: 40px;
+}
+
+p {
+  line-height: 2rem;
+}
+
+p.source {
+    text-align: right;
+    color: grey;
+    font-size: 12px
+}
+
+p.story {
+  text-align: justify;
 }
 
 /* This wrapper wraps around the whole content of the page, it allows us to make the margins smaller*/
@@ -15,11 +31,14 @@ h1 {
     max-width: 700px;
     margin: 20px auto;
     padding-left: 10px;
-}
+  }
 
 img {
     max-width: 100%;
     height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .img-wrapper {
@@ -34,7 +53,7 @@ img {
   
   .tooltip .tooltiptext {
     visibility: hidden;
-    width: 120px;
+    width: 160px;
     background-color: black;
     color: #fff;
     text-align: center;
@@ -55,3 +74,4 @@ img {
   .tooltip:hover .tooltiptext {
     visibility: visible;
   }
+
