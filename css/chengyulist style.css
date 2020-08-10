@@ -1,10 +1,11 @@
 .headerbox {
-    border: 5px solid black;
-    margin: auto;
-    margin-bottom: 20px;
+    border: 3px solid black;
+    margin-top: 40px;
+    margin-bottom: 15px;
     width: 100%;
     background-color: beige;
-    padding: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 
@@ -37,4 +38,14 @@ p.story {
 .chengyulist {
     line-height: 3rem;
     font-size: 24px;
+}
+
+.chengyulist li a {
+  color: black;
+
+}
+
+.chengyulist li a:hover {
+  background-color: gold;
+
 }
