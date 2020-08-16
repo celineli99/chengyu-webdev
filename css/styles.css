@@ -22,7 +22,7 @@ p.source {
     font-size: 12px
 }
 
-p.story {
+p.story .usage {
   text-align: justify;
 }
 
