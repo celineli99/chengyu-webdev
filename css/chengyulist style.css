@@ -15,7 +15,8 @@ h1 {
 }
 
 p {
-  line-height: 5rem;
+  line-height: 2rem;
+  text-align: justify;
 }
 
 p.source {
@@ -48,4 +49,16 @@ p.story {
 .chengyulist li a:hover {
   background-color: gold;
 
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-wrapper {
+  margin-top: 40px;
 }
