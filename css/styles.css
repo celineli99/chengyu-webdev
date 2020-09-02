@@ -30,6 +30,8 @@ p.story .usage {
 .wrapper {
     max-width: 700px;
     margin: 20px auto;
+    padding-left: 10px;
+    padding-right: 10px;
   }
 
 img {
